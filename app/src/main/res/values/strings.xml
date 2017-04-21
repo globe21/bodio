@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Bodio</string>
-    <string name="title_home">Home</string>
+
     <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_timeline">Timeline</string>
+    <string name="title_activities">Activities</string>
+    <string name="title_nutrition">Nutrition</string>
+    <string name="title_vitals">Vitals</string>
 </resources>
